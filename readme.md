@@ -7,7 +7,7 @@
 Você pode instalar a biblioteca via npm:
 
 ```bash
-npm install date-difference-calculator
+npm install dates-differences-calculator-lib
 ```
 
 ## Uso
