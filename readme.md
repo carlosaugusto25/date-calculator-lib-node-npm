@@ -76,7 +76,7 @@ Carlos Augusto
 
 ## Agradecimentos 
 
-Obrigado por usar `date-difference-calculator`! se você tiver alguma dúvida ou precisar de ajuda, entre em contato.
+Obrigado por usar `dates-differences-calculator-lib`! se você tiver alguma dúvida ou precisar de ajuda, entre em contato.
 
 ---
 
